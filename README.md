@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+View Live App : https://aigovernanceriskregister-qtizc7estexqp7elko86mh.streamlit.app/
 # AI Governance & Risk Register
 
 ## 🏛 Project Overview
