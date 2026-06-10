@@ -87,85 +87,37 @@ This includes both standalone AI tools and AI features embedded within third-par
 
 ---
 
-## 🏗 System Workflow
+## 🔄 AI Governance Lifecycle
 
-```text
-Staff AI Survey / Input
-        ↓
-AI Tool Registration
-        ↓
-Data Classification
-        ↓
-Automated Risk Assessment
-        ↓
-AI Governance Dashboard
-        ↓
-Reporting and Audit Outputs
-🏗 Governance & Risk Engineering Contributions
+The AI Governance & Risk Register follows a structured governance workflow:
 
-This project applies software engineering, data governance, and risk management principles within an AI governance context.
+1. **AI Survey & Discovery**
 
-AI Inventory Management
+   * Identify AI tools and AI-enabled systems currently used across the organisation.
+   * Capture information about business purpose, users, and vendors.
 
-Provides a central source of truth for AI tools and AI-enabled systems used across the organisation.
+2. **AI Registration**
 
-Risk Assessment Automation
+   * Register AI tools within the central AI Register.
+   * Maintain an inventory of approved and emerging AI technologies.
 
-Automatically classifies AI tools into risk levels based on data sensitivity and governance criteria.
+3. **Risk Assessment**
 
-Cyber Security Oversight
+   * Assess data sensitivity and governance impacts.
+   * Evaluate cyber security, privacy, compliance, and operational risks.
 
-Supports identification of AI systems that may process internal, confidential, or sensitive information.
+4. **Risk Classification**
 
-Traceability and Audit Readiness
+   * Automatically assign a risk level based on predefined governance criteria.
+   * Categorise tools as Low, Medium, or High Risk.
 
-Registered AI tools are stored in a structured database and can be exported for review, reporting, and audit purposes.
+5. **Governance Dashboard**
 
-Reproducibility
+   * Visualise AI adoption across departments.
+   * Monitor organisational AI risk exposure.
 
-Risk classifications are generated using consistent business rules.
+6. **Reporting & Audit Support**
 
-Version Control
+   * Export AI Register records.
+   * Support governance reviews, compliance reporting, and audit activities.
 
-Application code and documentation are managed using Git and GitHub.
-
-📊 Reporting
-
-The platform supports governance-focused reporting, including:
-
-Executive summary dashboard.
-AI inventory report.
-Department-level AI adoption insights.
-Risk distribution analysis.
-Exportable register data.
-Governance and compliance review support.
-🛠 Technologies Used
-Python
-Streamlit
-SQLite
-Pandas
-Plotly
-Git and GitHub
-🚀 Future Enhancements
-
-Future improvements may include:
-
-AI approval workflow.
-Privacy Impact Assessment module.
-Cyber Security Risk Assessment module.
-Vendor risk management.
-Review date reminders.
-AI policy compliance checker.
-PostgreSQL migration.
-Streamlit Cloud deployment.
-⚠️ Disclaimer
-
-This project was developed as part of an Information Technology learning and internship portfolio. It is intended for demonstration and educational purposes only and does not represent an official City of Hobart system or publication.
-
-Author
-
-Sheila Jerono
-AI/DevOps Engineering Intern
-Hobart City Council — Organisational Development Group
-Tasmania, Australia
-Contact: jerosheilah@gmail.com
