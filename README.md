@@ -121,3 +121,7 @@ The AI Governance & Risk Register follows a structured governance workflow:
    * Export AI Register records.
    * Support governance reviews, compliance reporting, and audit activities.
 
+
+## 👩🏾‍💻 Project Information
+
+Developed by Sheila Jerono as part of an AI/DevOps Engineering internship and portfolio project demonstrating skills in AI governance, software development, data management, cyber security oversight, automation and dashboard reporting.
